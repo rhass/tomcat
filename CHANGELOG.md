@@ -4,6 +4,8 @@
 
 - [COOK-3203]: Tomcat init script on Ubuntu does not support
   `reload` argument.
+- [COOK-3204]: Replace hard-coded path with config_dir
+  attribute.
 
 ## v0.14.2:
 
